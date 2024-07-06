@@ -20,7 +20,7 @@ body {
     width: 440px;
     height: 480px;
     padding: 30px;
-    border: 2px solid white;
+    /* border: 2px solid white; */
     border-radius: 30px;
 }
 .loginheader {
